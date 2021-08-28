@@ -7,6 +7,8 @@ ibm-cloud-sdk-core==3.10.0
 ibm-watson==5.2.2
 idna==2.10
 iniconfig==1.1.1
+numpy==1.21.2
+opencv-python==4.5.3.56
 packaging==21.0
 pluggy==0.13.1
 py==1.10.0
